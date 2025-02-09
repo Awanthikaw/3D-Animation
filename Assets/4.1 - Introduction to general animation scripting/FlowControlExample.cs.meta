@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5f1e9f9eeb6e4364ebfa48c8dc1046dc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177307
+  packageName: Introduction to 3D Animation Systems Assets
+  packageVersion: 1.0
+  assetPath: Assets/4.1 - Introduction to general animation scripting/FlowControlExample.cs
+  uploadId: 386324

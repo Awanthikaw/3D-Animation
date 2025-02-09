@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b28326e31ec94f043800bc72a024621e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177307
+  packageName: Introduction to 3D Animation Systems Assets
+  packageVersion: 1.0
+  assetPath: Assets/3.7 - Creating and configuring Animator Layers/Scripts/LayerWeightSetter.cs
+  uploadId: 386324

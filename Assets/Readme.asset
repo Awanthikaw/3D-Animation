@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
+  m_Name: Readme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 6e0178a7771c65c40a3f474e485d7c93, type: 3}
+  title: Introduction to 3D Animation Systems
+  sections:
+  - heading: What is this project?
+    text: This Unity project is for the course Introduction to 3D Animation Systems.
+      It includes examples and exercises to help you apply your learning as you complete
+      the course.
+    linkText: 
+    url: 
+  - heading: How do I use it?
+    text: We've written a detailed course that explores and explains all the available
+      functions of 3D Animation. You can find the course on our Learn site.
+    linkText: Course Link
+    url: https://learn.unity.com/course/introduction-to-3d-animation-systems
+  loadedLayout: 1

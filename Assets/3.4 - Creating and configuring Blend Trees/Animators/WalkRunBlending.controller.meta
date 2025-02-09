@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fdc365aa32cd1ff4eac2f05dd86b1150
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177307
+  packageName: Introduction to 3D Animation Systems Assets
+  packageVersion: 1.0
+  assetPath: Assets/3.4 - Creating and configuring Blend Trees/Animators/WalkRunBlending.controller
+  uploadId: 386324

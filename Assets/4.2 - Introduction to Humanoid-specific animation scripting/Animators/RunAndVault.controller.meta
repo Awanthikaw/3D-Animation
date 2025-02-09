@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b01ab6057fb571a428eaa38fc8d81e82
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177307
+  packageName: Introduction to 3D Animation Systems Assets
+  packageVersion: 1.0
+  assetPath: Assets/4.2 - Introduction to Humanoid-specific animation scripting/Animators/RunAndVault.controller
+  uploadId: 386324

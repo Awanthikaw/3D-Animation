@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 82fdd2c3955a9c2499236736df46bc06
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177307
+  packageName: Introduction to 3D Animation Systems Assets
+  packageVersion: 1.0
+  assetPath: Assets/1.3 - Core Concepts Animation Blending/Scripts/Testing.cs
+  uploadId: 386324

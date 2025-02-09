@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 75a8612df335393448194ea38cfebe60
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177307
+  packageName: Introduction to 3D Animation Systems Assets
+  packageVersion: 1.0
+  assetPath: Assets/4.2 - Introduction to Humanoid-specific animation scripting/Scripts/VaultTargetMatching.cs
+  uploadId: 386324

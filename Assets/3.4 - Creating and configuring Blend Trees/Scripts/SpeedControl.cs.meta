@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6c5f3b388e37cc146b3ea3ee0e02f4dd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177307
+  packageName: Introduction to 3D Animation Systems Assets
+  packageVersion: 1.0
+  assetPath: Assets/3.4 - Creating and configuring Blend Trees/Scripts/SpeedControl.cs
+  uploadId: 386324

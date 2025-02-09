@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c8eed9b8a70d98b4681e1407f961af0b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177307
+  packageName: Introduction to 3D Animation Systems Assets
+  packageVersion: 1.0
+  assetPath: Assets/4.1 - Introduction to general animation scripting/SetParametersExample.cs
+  uploadId: 386324

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a5b9ad8bfd03f0c4aa3d30df5d515fdd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177307
+  packageName: Introduction to 3D Animation Systems Assets
+  packageVersion: 1.0
+  assetPath: Assets/1.3 - Core Concepts Animation Blending/Scripts/Editor/BlendingExampleEditor.cs
+  uploadId: 386324

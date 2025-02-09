@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e38d91077ca835548906eb4b4842480c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177307
+  packageName: Introduction to 3D Animation Systems Assets
+  packageVersion: 1.0
+  assetPath: Assets/3.4 - Creating and configuring Blend Trees/Scripts/CameraFollow.cs
+  uploadId: 386324
